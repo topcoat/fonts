@@ -4,9 +4,6 @@
   "description": "Fonts for use with Topcoat",
   "main": "src/fonts.css",
   "style": "src/fonts.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/topcoat/fonts.git"
