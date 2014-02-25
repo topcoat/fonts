@@ -13,7 +13,7 @@
   font-weight: 600;
 }
 body {
-	font: var(font-size) "Source Sans Pro", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family: var(font-family, "Source Sans Pro", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif);
 	font-weight: var(font-weight);
 }
 
