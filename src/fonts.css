@@ -12,8 +12,3 @@
   src: url('../font/SourceSansPro-Semibold.otf');
   font-weight: 600;
 }
-body {
-	font-family: var(font-family, "Source Sans Pro", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif);
-	font-weight: var(font-weight);
-}
-
